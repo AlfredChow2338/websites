@@ -1,0 +1,378 @@
+#topbar {
+    width: 1300px;
+    margin: 0 auto;
+    height: 40px;
+}
+
+body {
+
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#logo {
+
+    margin-top: 8px;
+    width: 80px;
+    float: left;
+    margin-right: 12px;
+
+}
+
+.topbar-section {
+
+    float: left;
+    border-left: 1px solid #CCCCCC;
+    height: 100%;
+
+}
+
+#signin-image {
+
+    width: 23px;
+    margin-top: 10px;
+    margin-left: 8px;
+    float: left;
+
+}
+
+#signin-text {
+
+    float: left;
+    font-weight: bold;
+    font-size: 90%;
+    margin-top: 13px;
+    margin-left: 8px;
+    margin-right: 50px;
+
+}
+
+.topbar-menu {
+
+    font-weight: none;
+    font-size: 90%;
+    padding: 13px 18px 0 18px;
+    height: 26px;
+
+}
+
+#more-arrow {
+
+    padding-left: 30px;
+
+}
+
+#search-box {
+
+    background-color: #e4e4e4;
+    border: none;
+    font-weight: bold;
+    font-size: 13px;
+    padding: 5px;
+    margin: 7px 0 7px 7px;
+    float: left;
+
+}
+
+#magnifying-glass {
+
+    height: 25px;
+    margin-top: 7px;
+
+}
+
+.clear {
+
+    clear: both;
+
+}
+
+#menu-bar-container {
+
+    background-color: #bb1919;
+    width: 100%;
+    height: 70px;
+
+}
+
+#menu-bar {
+
+    width: 1300px;
+    margin: 0 auto;
+
+}
+
+h1 {
+
+    padding: 0;
+    margin: 0;
+    color: white;
+    font-size: 40px;
+    font-weight: normal;
+    padding-top: 10px;
+
+}
+
+#menu-bar-2 {
+
+    background-color: #bb1919;
+    width: 100%;
+    height: 20px;
+
+}
+
+#menu-bar-2 a {
+
+    color: white;
+    text-decoration: none;
+    position: relative;
+    bottom: 5px;
+    left: 300px;
+    padding: 2px 10px;
+    border-right: 1px solid #bb4545;
+    font-size: 14px;
+}
+
+#menu-bar-2 a:hover {
+
+    text-decoration: underline;
+
+}
+
+.no-border {
+
+    border: none !important;
+
+}
+
+#more-arrow-in-red {
+
+    height: 13px;
+    position: relative;
+    top: -4px;
+    left: 288px;
+
+}
+
+#page-container {
+
+    width: 1300px;
+    margin: 0 auto;
+    height: 0;
+
+}
+
+h2 {
+
+    font-weight: normal;
+    margin-top: 14px;
+    font-size: 20px;
+    border-bottom: 3px solid #bb1919;
+    width: 45px;
+
+}
+
+h3 a {
+
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 26px;
+
+}
+
+h3 a:hover {
+
+    color: #1167a8;
+    text-decoration: underline;
+
+}
+
+#article-summary {
+
+    float: left;
+    color: #5a5a5a;
+    font-size: 15px;
+    width: 480px;
+    position: relative;
+    top: -20px;
+
+}
+
+#article-summary img {
+
+    margin-top: 0px;
+    position: relative;
+    top: 2px;
+
+}
+
+#article-summary a {
+
+    text-decoration: none;
+    border-left: 1px solid #CCCCCC;
+    margin-left: 8px;
+    padding-left: 8px;
+    color: black;
+
+}
+
+#article-summary a:hover {
+
+    color: #1167a8;
+    text-decoration: underline;
+
+}
+
+#article-container {
+
+    float: left;
+    width: 600px;
+
+}
+
+.related-article {
+
+    font-weight: bold;
+    color: black;
+    margin-top: 50px;
+    font-size: 15px;
+
+}
+
+h4 {
+
+    width: 240px;
+    line-height: 1.3;
+
+}
+
+#top-sub-news-container {
+
+    float: right;
+    width: 240px;
+    position: relative;
+    top: -533px;
+    left: -530px;
+
+}
+
+#top-sub-news-container p {
+
+    font-size: 14px;
+    position: relative;
+    top: -10px;
+    color: grey;
+
+}
+
+#top-sub-news-container img {
+
+    margin-top: 0;
+    position: relative;
+    top: 3px;
+
+}
+
+#top-sub-news-container a {
+
+    text-decoration: none;
+    border-left: 1px solid #CCCCCC;
+    margin-left: 8px;
+    padding-left: 8px;
+    color: black;
+
+}
+
+#top-sub-news-container a:hover {
+
+    color: #1167a8;
+    text-decoration: underline;
+    
+
+}
+
+#top-sub-news-1-time {
+
+    position: relative;
+    top: 20px;
+
+}
+
+#top-sub-news-2 {
+
+    position: relative;
+    top: -327px;
+    left: 260px;
+
+}
+
+#top-sub-news-2-time {
+
+    position: relative;
+    top: 20px;
+
+}
+
+#top-sub-news-3 {
+
+    position: relative;
+    top: -654px;
+    left: 520px;
+
+}
+
+#top-sub-news-3-time {
+
+    position: relative;
+    top: 38px;
+
+}
+
+#top-sub-news-4 {
+
+    position: relative;
+    top: -600px;
+    left: 0;
+
+}
+
+#top-sub-news-4-time {
+
+    position: relative;
+    top: 20px;
+
+}
+
+#top-sub-news-5 {
+
+    position: relative;
+    top: -913px;
+    left: 262px;;
+
+}
+
+#top-sub-news-5-img {
+
+    width: 237px;
+
+}
+
+
+#top-sub-news-6 {
+
+    position: relative;
+    top: -1242px;
+    left: 520px;
+
+}
+
+ul li {
+
+    font-size: 16px;
+    position: relative;
+    left: -20px;
+
+}
